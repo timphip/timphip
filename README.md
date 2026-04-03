@@ -28,7 +28,6 @@ When I'm not writing code, you'll likely find me diving into academic papers on 
 - 🌌 **Multimodal Learning & World Models:** Investigating geometric consistency using Optical Flow and Homography Estimation.
 - ⚛️ **Physical Deep Learning:** Integrating traditional physical methods into modern Transformer architectures.
 - ⏱️ **Low-Latency AI:** Building real-time, lightweight signal processing pipelines (e.g., EEG-based Brain-Computer Interfaces).
-- 🧠 **Stanford CS Curriculum:** Actively upskilling through **CS231N** (CV), **CS231A** (3D Vision), and **CS224N** (NLP).
 
 <br/>
 
